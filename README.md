@@ -24,6 +24,7 @@ It will be stopped when the reMarkable goes to sleep.<br>
 <br>
 Look at the app-example folder to create an application.<br>
 Copy the .metadata and edit "visibleName" to the name of your application.<br>
+Observe that "synced" needs to be false! The reMarkable native app will delete your files otherwise.<br>
 Generate a new uuid (https://www.guidgenerator.com/) and rename the .metadata file with the new uuid.<br>
 Create a .pdf with a single page. A thumbnail of the first page will be created by the reMarkable native app.<br>
 Name that .pdf to the same uuid that you named your .metadata file.<br>
