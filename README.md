@@ -30,7 +30,7 @@ Create a .pdf with a single page. A thumbnail of the first page will be created 
 Name that .pdf to the same uuid that you named your .metadata file.<br>
 Rename your application that you want the launcher to start to the same uuid ending with .app<br>
 <br>
-Copy all files to /home/root/.local/share/remarkable/xochitl/ on your reMarkable.<br>
+Copy all three files to /home/root/.local/share/remarkable/xochitl/ on your reMarkable.<br>
 I use sftp.<br>
 <br>
 Restart the reMarkable native app:<br>
