@@ -1,0 +1,22 @@
+QMAKE_CXX.INCDIRS = \
+    /usr/local/oecore-x86_64/sysroots/cortexa9hf-neon-oe-linux-gnueabi/usr/include/c++/7.3.0 \
+    /usr/local/oecore-x86_64/sysroots/cortexa9hf-neon-oe-linux-gnueabi/usr/include/c++/7.3.0/arm-oe-linux-gnueabi \
+    /usr/local/oecore-x86_64/sysroots/cortexa9hf-neon-oe-linux-gnueabi/usr/include/c++/7.3.0/backward \
+    /usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/lib/arm-oe-linux-gnueabi/gcc/arm-oe-linux-gnueabi/7.3.0/include \
+    /usr/local/oecore-x86_64/sysroots/cortexa9hf-neon-oe-linux-gnueabi/usr/lib/gcc/arm-oe-linux-gnueabi/7.3.0/include \
+    /usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/lib/arm-oe-linux-gnueabi/gcc/arm-oe-linux-gnueabi/7.3.0/include-fixed \
+    /usr/local/oecore-x86_64/sysroots/cortexa9hf-neon-oe-linux-gnueabi/usr/include
+QMAKE_CXX.LIBDIRS = \
+    /usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/lib/arm-oe-linux-gnueabi/gcc/arm-oe-linux-gnueabi/7.3.0 \
+    /usr/local/oecore-x86_64/sysroots/cortexa9hf-neon-oe-linux-gnueabi/lib \
+    /usr/local/oecore-x86_64/sysroots/cortexa9hf-neon-oe-linux-gnueabi/usr/lib/arm-oe-linux-gnueabi/7.3.0 \
+    /usr/local/oecore-x86_64/sysroots/cortexa9hf-neon-oe-linux-gnueabi/usr/lib
+QMAKE_CXX.QT_COMPILER_STDCXX = 201402L
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 7
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 3
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 0
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
