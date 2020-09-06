@@ -4,7 +4,7 @@ It has been tested and it works on the latest os version.
 I have not tested this on the new reMarkable v2 hardware.
 Please! Note that this is just a super-fast test to see if this is possible.
 I take absolutely NO RESPONSIBILITY for your reMarkable when you are using this application.
-I can make this a more "finished product" if the demand for these increases.
+I can make this a more "finished version" if the demand for this increases.
 
 
 How to test the application on your reMarkable: (without compiling)
