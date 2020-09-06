@@ -1,13 +1,13 @@
 
 
-This is a first test of making a "app-launcher" for the reMarkable.
-It has been tested and it work on the latest os version.
+This is a first test of making a "app-launcher" for the reMarkable.<br>
+It has been tested and it works on the latest os version.
 I have not tested this on the new reMarkable v2 hardware.
 
 
 How to test the application on your reMarkable: (without compiling)
 ssh into you reMarkable. (settings > About on your reMarkable will show you the ip and password)
-run "wget https://github.com/Lobeltas/....."
+run "wget https://github.com/Lobeltas/rMAppLauncher/raw/master/reMarkable"
 run "chmod +x reMarkable"
 run "./reMarkable"
 
@@ -16,6 +16,12 @@ If there is a .app file it stops reMarkable native app and lanches the .app file
 It the starts the reMarkable native app When the .app has ended.
 
 
+I have no idea how to make this autostart on boot.
+Suggestions are welcome.
 
+
+TODOs:
+
+Autostart on boot.
 
 
