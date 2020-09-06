@@ -50,6 +50,7 @@ Suggestions are welcome.<br>
 TODOs:<br>
 <br>
 Autostart on boot.
+Delete .app file when .pdf is deleted.
 <br>
 <br>
 <br>
